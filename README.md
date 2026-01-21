@@ -6,7 +6,7 @@
 
 # Previsão de Importação - PR
 
-> **Emissão:** 12-2025
+> **Emissão:** 1-2026
 > 
 > A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
 > 
