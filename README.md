@@ -19,9 +19,16 @@
 ---  
   
   
-![Gráfico de Previsão](PR_Outros%20cloretos%20de%20potássio1.png) 
-<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
-  
+![Gráfico de Previsão](download.png)  
+<sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
+<sub>* IC: Intervalo de Confiança</sub>  
+
+---
+
+# Exemplo de Fatores Influenciadores
+
+![Importância dos Fatores](importância_dos_fatores.png) 
+
 ---
 
 ## Contato
